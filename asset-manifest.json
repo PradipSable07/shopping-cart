@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PradipSable07/shopping-cart/static/css/main.e6c13ad2.css",
+    "main.js": "/PradipSable07/shopping-cart/static/js/main.b7cb9c88.js",
+    "index.html": "/PradipSable07/shopping-cart/index.html",
+    "main.e6c13ad2.css.map": "/PradipSable07/shopping-cart/static/css/main.e6c13ad2.css.map",
+    "main.b7cb9c88.js.map": "/PradipSable07/shopping-cart/static/js/main.b7cb9c88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b7cb9c88.js"
+  ]
+}
